@@ -1,1 +1,3 @@
-END TO END ML PROJECT
+# ML_Project
+
+This repository contains my machine learning projects.
